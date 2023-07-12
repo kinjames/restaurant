@@ -24,7 +24,7 @@ The culmination of our efforts resulted in a visually stunning restaurant websit
 
 ## Technologies Used
 - Frontend: HTML5, CSS3, JavaScript (without additional frameworks)
-- Backend: Python (Django framework)
+- Backend: JavaScript (MongoDb)
 
 ## Implemented Features
 1. Intuitive Menu Exploration: Users can effortlessly browse through the restaurant's menu, exploring various categories and dishes.
