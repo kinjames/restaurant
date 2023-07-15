@@ -20,7 +20,6 @@ Working on this project allowed me to combine my passion for design and programm
 ## Project Result and Data Flow Diagram
 The culmination of our efforts resulted in a visually stunning restaurant website that seamlessly guides users through their dining journey. The data flow diagram illustrates the smooth flow of information from the frontend to the backend systems, showcasing user actions and data processing.
 
-[Insert Data Flow Diagram here]
 
 ## Technologies Used
 - Frontend: HTML5, CSS3, JavaScript (without additional frameworks)
