@@ -34,6 +34,6 @@ The culmination of our efforts resulted in a visually stunning restaurant websit
 Throughout this project, I gained valuable technical and collaborative skills. I learned to balance design aesthetics with functionality, the importance of effective communication within a team, and the significance of understanding the target audience to create an engaging user experience. This project has reinforced my passion for combining design and technology and will guide my engineering path in the future.
 
 ## About the Author
-James Kofi Myers is a tech enthusiast.
+James Kofi Myers is a tech enthusiast. I love rverythubg tech related. 
 
 
