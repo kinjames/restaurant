@@ -20,7 +20,6 @@ Working on this project allowed me to combine my passion for design and programm
 ## Project Result and Data Flow Diagram
 The culmination of our efforts resulted in a visually stunning restaurant website that seamlessly guides users through their dining journey. The data flow diagram illustrates the smooth flow of information from the frontend to the backend systems, showcasing user actions and data processing.
 
-[Insert Data Flow Diagram here]
 
 ## Technologies Used
 - Frontend: HTML5, CSS3, JavaScript (without additional frameworks)
@@ -32,9 +31,9 @@ The culmination of our efforts resulted in a visually stunning restaurant websit
 3. Engaging Visuals and Content: The website incorporates captivating visuals, high-quality images, and informative content to provide an immersive experience.
 
 ## Lessons Learned and Future Engineering Path
-Throughout this project, we gained valuable technical and collaborative skills. We learned to balance design aesthetics with functionality, the importance of effective communication within a team, and the significance of understanding the target audience to create an engaging user experience. This project has reinforced my passion for combining design and technology and will guide my engineering path in the future.
+Throughout this project, I gained valuable technical and collaborative skills. I learned to balance design aesthetics with functionality, the importance of effective communication within a team, and the significance of understanding the target audience to create an engaging user experience. This project has reinforced my passion for combining design and technology and will guide my engineering path in the future.
 
 ## About the Author
-James Kofi Myers is a tech enthusiast.
+James Kofi Myers is a tech enthusiast. I love rverythubg tech related. 
 
 
