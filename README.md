@@ -7,6 +7,8 @@ The purpose of this project was to create a captivating website for a restaurant
 
 ## Team Members and Roles
 - James Kofi Myers: Designer - Responsible for crafting captivating visuals and ensuring an intuitive user interface.
+- James Kofi Myers: Designer - Responsible for crafting captivating visuals and ensuring an intuitive user interface.
+- James Kofi Myers: Designer - Responsible for crafting captivating visuals and ensuring an intuitive user interface.
 
 ## Timeline
 The project spanned two weeks, from initial planning to final deployment. The timeline included various stages such as design, development, testing, and deployment.
