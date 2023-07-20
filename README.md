@@ -9,7 +9,7 @@ The purpose of this project was to create a captivating website for a restaurant
 - James Kofi Myers: Designer - Responsible for crafting captivating visuals and ensuring an intuitive user interface.
 
 ## Timeline
-The project spanned three months, from initial planning to final deployment. The timeline included various stages such as design, development, testing, and deployment.
+The project spanned two weeks, from initial planning to final deployment. The timeline included various stages such as design, development, testing, and deployment.
 
 ## Target Audience
 The restaurant website was designed to cater to both local patrons and tourists visiting the area. It aimed to attract food enthusiasts, families, and individuals seeking memorable dining experiences.
@@ -34,6 +34,6 @@ The culmination of our efforts resulted in a visually stunning restaurant websit
 Throughout this project, I gained valuable technical and collaborative skills. I learned to balance design aesthetics with functionality, the importance of effective communication within a team, and the significance of understanding the target audience to create an engaging user experience. This project has reinforced my passion for combining design and technology and will guide my engineering path in the future.
 
 ## About the Author
-James Kofi Myers is a tech enthusiast. I love rverythubg tech related. 
+James Kofi Myers is a tech enthusiast. I love rverythubg tech related.
 
 
