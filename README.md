@@ -1,9 +1,9 @@
 # Restaurant Website Project
 
-Welcome to our Restaurant Website Project repository! This project aimed to develop a visually appealing and user-friendly website for a restaurant, providing visitors with an immersive dining experience. In this README, you'll find an overview of the project, team members and roles, timeline, target audience, personal focus, project result, data flow diagram, technologies used, implemented features, lessons learned, and information about the author.
+Welcome to my Restaurant Website Project repository! This project aimed to develop a visually appealing and user-friendly website for a restaurant, providing visitors with an immersive dining experience. In this README, you'll find an overview of the project, team members and roles, timeline, target audience, personal focus, project result, data flow diagram, technologies used, implemented features, lessons learned, and information about the author.
 
 ## Project Overview
-The purpose of this project was to create a captivating website for a restaurant, showcasing its menu, ambiance, and allowing visitors to make reservations. The goal was to provide a seamless and engaging platform that entices potential customers and enhances their dining choices.
+The purpose of this project was to create an intriguing  website for a restaurant, showcasing its menu, ambiance, and allowing visitors to make reservations. The goal was to provide a seamless and engaging platform that entices potential customers and enhances their dining choices.
 
 ## Team Members and Roles
 - James Kofi Myers: Designer - Responsible for crafting captivating visuals and ensuring an intuitive user interface.
